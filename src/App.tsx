@@ -53,7 +53,7 @@ function App() {
             <div className="bg-cover bg-center"></div>
             <img
               className="rounded-full relative -top-7 shadow-black/50 shadow-2xl -left-40 w-4/12"
-              src="/plangg0042.png"
+              src="plangg0042.png"
               alt="Josué Moutinho Silva"
             />
             <div className="shadow-md max-w-4xl p-4">
