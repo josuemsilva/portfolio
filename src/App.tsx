@@ -86,7 +86,7 @@ function App() {
           </button>
         </div>
 
-        <div className="group hover:scale-110 transition-transform duration-400 flex items-center fixed size-16 border-2 border-black bg-slate-500 bottom-2 left-2">
+        <div className="z-10 group hover:scale-110 transition-transform duration-400 flex items-center fixed size-16 border-2 border-black bg-slate-500 bottom-2 left-2">
           <a
             href={
               languageChange
