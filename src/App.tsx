@@ -90,8 +90,8 @@ function App() {
           <a
             href={
               languageChange
-                ? "https://drive.google.com/uc?export=download&id=1SvHpovClzgQ0yit7acy8scn7FjIXf3XJ"
-                : "https://drive.google.com/uc?export=download&id=1Q0dxAIBRP1uFG8WdnT6rwSa0R3JvtQQA"
+                ? "https://drive.google.com/file/d/1cXhsEKeo3Q4uUhxeFM6pbEu4It7grRJN/view?usp=sharing"
+                : "https://drive.google.com/file/d/1FO61s45Nagi-GmPUa2twxz_mkwF_lWAz/view?usp=sharing"
             }
             target="_blank"
             rel="noreferrer"
